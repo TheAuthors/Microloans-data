@@ -4,8 +4,8 @@ This repository contains a jupyter notebook (‘Charts.ipynb’) containing the 
 
 1. Confirmation that the data will be used solely for academic and/or non-commercial purposes.
 
-2. A commitment to properly cite ''https://doi.org/10.48550/arXiv.2505.11944'' in any publication that uses the Microloans-data dataset.
+2. A brief description of your intended use of the data.
 
 3. Your email address (to grant you access for dataset download).
 
-4. A brief description of your intended use of the data.
+4. A commitment to properly cite ''https://doi.org/10.48550/arXiv.2505.11944'' in any publication that uses the Microloans-data dataset.
